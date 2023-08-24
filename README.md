@@ -34,5 +34,4 @@ The app DOES NOT read any data from your device other than the app data. The app
 - For Questions/Inquireies, Contact us at one of these emails = mainsoftworks@gmail.com *or* devjoshu13@gmail.com
 - For feedback on my app, Email me or do the following form = https://forms.gle/SZm8RioS8V7jHo8Y8
 - Google Play store page = *coming soon*
-- App Store page = *coming soon*
 - If you like this app and want to support me, consider donating here = https://www.buymeacoffee.com/devjoshu13
