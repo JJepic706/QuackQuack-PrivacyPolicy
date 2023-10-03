@@ -2,6 +2,11 @@
 
 ## This document is required for Play Store submittion... 
 
+### Into:
+QuackQuack is a game deved by Mainsoftworks.
+It's a simple clicker game that **DOES NOT** collect any data. 
+It does however use some personal data for some features. 
+These things are disclosed below, any questions, please contact us (see details at bottom)
 
 ### Data Collection:
 - No personal data is **collected** by us, all data is used and stored by google play games or locally
