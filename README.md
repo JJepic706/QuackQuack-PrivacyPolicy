@@ -6,11 +6,19 @@
 ### Data Collection:
 - No personal data is **collected** by us, all data is used and stored by google play games or locally
 - The only data that leaves the app is through Google play games, if you decide to use the service in the app
+- If you decide against this, no data is used in any way
 - All data and info on how google play games manages data can be found online
 - Here is all persoinal data that may be used (For leaderboards and achievements)
     - Google play games username (Controlled by your privacy settings)
     - Google account email (Not viewable)
 - We don't collect any data, it is only used for the online achievemnts + leaderboards and is all managed by google play games
+
+
+### Firebase:
+- The app connects to a firebase server for the use of QuackQuack mail. 
+- This feature is part of the app and cannot be stopped 
+- No data is collected in this, it only collects data and information updates from my server
+- All data is encrypted by Google's firebase platform, and data reads are only done once a week
 
 
 ### Permissions:
@@ -27,6 +35,7 @@ The app DOES NOT read any data from your device other than the app data. The app
 ### Definitions:
 - Shared Preferences: A function used in Android app development that allows the app to store values for use later or even after app closure. In my app, it's used to store your app data, settings and progress. This includes data like what ducks/backgrounds are unlocked, along with current scores and currency amounts. This data can only be accessed by the app and is only stored on your device. To clear it, clear the app data or app cache. This will completely reset the app.
 - Google Play Games: A service created by google to improve gaming on mobile. It includes a vairiety of features such as achievemnets for your game profile, leaderboards, friends and game backups. In my app I use it as another way to track achievements and use its built in leaderboard functions for a vairiety of in game leaderboards to compete on.
+- Firebase Server: Firebase is a Google-backed application development software that enables developers to develop iOS, Android, and Web apps. Firebase provides lots of tools, including the ability to store data for programs to use and update that data in real-time as the user/developer changes it.
 
 
 ### Links/Developer Contact
