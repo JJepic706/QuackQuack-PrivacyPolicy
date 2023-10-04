@@ -6,33 +6,34 @@
 QuackQuack is a game deved by Mainsoftworks.
 It's a simple clicker game that **DOES NOT** collect any data. 
 It does however use some personal data for some features. 
-These things are disclosed below, any questions, please contact us (see details at bottom)
+These things are disclosed below, any questions, please contact us (see details at bottom).
 
 ### Data Collection:
-- No personal data is **collected** by us, all data is used and stored by google play games or locally
-- The only data that leaves the app is through Google play games, if you decide to use the service in the app
-- If you decide against this, no data is used in any way
-- All data and info on how google play games manages data can be found online
-- Here is all persoinal data that may be used (For leaderboards and achievements)
-    - Google play games username (Controlled by your privacy settings)
-    - Google account email (Not viewable)
-- We don't collect any data, it is only used for the online achievemnts + leaderboards and is all managed by google play games
+- No personal data is **collected** by us, all data is used and stored by google play games or locally.
+- The only data that leaves the app is through Google play games, if you decide to use the service in the app.
+- If you decide against this, no data is used in any way.
+- All data and info on how google play games manages data can be found online.
+- Here is all persoinal data that may be used (For leaderboards and achievements).
+    - Google play games username (Controlled by your privacy settings).
+    - Google account email (Not viewable).
+- We don't collect any data, it is only used for the online achievemnts + leaderboards and is all managed by google play games.
+- All of this data can be deleted through Google play games if needed
 
 
 ### Firebase:
 - The app connects to a firebase server for the use of QuackQuack mail. 
-- This feature is part of the app and cannot be stopped 
-- No data is collected in this, it only collects data and information updates from my server
-- All data is encrypted by Google's firebase platform, and data reads are only done once a week
+- This feature is part of the app and cannot be stopped.
+- No data is collected in this, it only collects data and information updates from my server.
+- All data is encrypted by Google's firebase platform, and data reads are only done once a week.
 
 
 ### Permissions:
 The following permissions are utilized by the app. If you do not grant them, the app may not function properly and may crash unexpectedly:
 
-- "android.permission.INTERNET" = Used to access the internet and in game, google play leaderboards/achievements
-- "android.permission.NOTIFICATIONS" = Used to allow us to send you notifications! This permission is optional and can be changed in settings if needed
-- "android.permission.SYSTEM_ALERT_WINDOW" = Used on first boot to display a google play games sign in popup. Also used to display if you're logged in
-- "android.permission.POST_NOTIFICATIONS" = Used in android 13+ for google play popups and notifications that open the app
+- "android.permission.INTERNET" = Used to access the internet and in game, google play leaderboards/achievements.
+- "android.permission.NOTIFICATIONS" = Used to allow us to send you notifications! This permission is optional and can be changed in settings if needed.
+- "android.permission.SYSTEM_ALERT_WINDOW" = Used on first boot to display a google play games sign in popup. Also used to display if you're logged in.
+- "android.permission.POST_NOTIFICATIONS" = Used in android 13+ for google play popups and notifications that open the app.
 
 The app DOES NOT read any data from your device other than the app data. The app data includes the app itself and any shared preference files created by the app/user.
 
