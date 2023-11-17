@@ -34,6 +34,10 @@ The following permissions are utilized by the app. If you do not grant them, the
 - "android.permission.NOTIFICATIONS" = Used to allow us to send you notifications! This permission is optional and can be changed in settings if needed.
 - "android.permission.SYSTEM_ALERT_WINDOW" = Used on first boot to display a google play games sign in popup. Also used to display if you're logged in.
 - "android.permission.POST_NOTIFICATIONS" = Used in android 13+ for google play popups and notifications that open the app.
+- "android.permission.NOTIFICATIONS" = used for notifications in versions of android < 13
+- "OnBackInvokedCallback" = used to allow me to impliment or stop gestures in the app. I use this to stop "swipe backs" as it corrupts the game data.
+- "android.permission.RECEIVE_BOOT_COMPLETED" = Allows the app to restart hunger and notification processes after a reboot of the device. These processes are important to the app and vital for a smooth experience.
+- "android.permission.WAKE_LOCK" = Currently required to help smooth the recievers used for notifications and duck hunger. I am currenbtly testing/working on a method for this permission to not be required.
 
 The app DOES NOT read any data from your device other than the app data. The app data includes the app itself and any shared preference files created by the app/user.
 
