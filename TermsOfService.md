@@ -18,4 +18,4 @@
  - Certain assets were found from free to use services and not made by us (For example, most Sound effects), any issues with us using these let us know.
  - For more info, read the privacy policy.
 
-Developer contact - dev_joshu@gmail.com + mainsoftworks@gmail.com
+Developer contact - devjoshu13@gmail.com + mainsoftworks@gmail.com
