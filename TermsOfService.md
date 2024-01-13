@@ -18,4 +18,9 @@
  - Certain assets were found from free to use services and not made by us (For example, most Sound effects), any issues with us using these let us know.
  - For more info, read the privacy policy.
 
-Developer contact - devjoshu13@gmail.com + mainsoftworks@gmail.com
+### Links/Developer Contact
+
+- For Questions/Inquireies, Contact us at one of these emails = mainsoftworks@gmail.com *or* devjoshu13@gmail.com
+- For feedback on my app, Email me or do the following form = https://forms.gle/SZm8RioS8V7jHo8Y8
+- Google Play store page = https://play.google.com/store/apps/details?id=com.main.quackquack&gl=GB
+- If you like this app and want to support me, consider donating here = https://www.buymeacoffee.com/devjoshu13
