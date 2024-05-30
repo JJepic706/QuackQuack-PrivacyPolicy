@@ -20,6 +20,28 @@ These things are disclosed below, any questions, please contact us (see details 
 - All of this data can be deleted through Google play games if needed
 
 
+### Google AdMob Service:
+
+We use the Google AdMob service to supply ads to our mobile game. These ads can be watched for in-game rewards! We, at MainSoftworks, do not collect, view or save any personal data. However, by using QuackQuack, you allow our advert client, Google AdMob, access to the following by default (Quoted from admob website [as seen here](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)): 
+
+---------------------------------
+
+| Data     | Google Ads SDK... |
+| :---      | :---       |
+| IP adress | Collects devices IP adress, which may be used to estimate the general location of a device |
+| User product interactions | Collects user product interactions and interaction information, including app launch, taps and video views |
+| Diagnostic information | Collects info related to the performance of the app and the SDK (service), including crash logs, app launch time, hang rate and energy usage |
+| Device and account identifiers | collects android advertising ID, app set id and if applicable, other identifiers related to sign in accounts on the device (if signed in on app) |
+
+All data is used to run the service, keeping it appropriate and functioning well. All data is encrypted using Transport Layer Security (TLS) protocal. 
+
+------------------------------
+
+Our app uses Limited Ads, which prioritises user saftey over company profits. A factor MainSoftworks always strives to achieve. Limited Ads disable the **collection**, **sharing** and **use** of personal data for displaying ads.
+
+That being said, Google Admob may collect the data types above by 'default' for the SDK to work properly.
+
+
 ### Firebase:
 - The app connects to a firebase server for the use of QuackQuack mail. 
 - This feature is part of the app and cannot be stopped.
